@@ -1,0 +1,67 @@
+# Atue como um Analista de Dados e analise o documento em anexo.
+Me diga:
+- Quais as regiões do globo que mais vendem Toyota
+- Quais as regiões do globo mais produzem Toyota
+- Quais as regiões do globo mais exportam
+
+Me apresente os dados em formato de tabela excel.
+
+Após isso, me diga como a Toyota poderia otimizar as vendas em cada região de forma breve, com base nos dados apresentados.
+
+
+
+
+
+# Resposta do ChatGPT
+
+Regiões com maior volume de vendas, produção e exportação da Toyota
+1. Regiões que mais vendem Toyota
+Com base nos dados de vendas​, as regiões que mais vendem veículos Toyota são:
+
+Ásia – 2.886.862 unidades (2024)
+América do Norte – 2.486.375 unidades (2024)
+Europa – 1.071.826 unidades (2024)
+
+2. Regiões que mais produzem Toyota
+A produção é liderada por​:
+
+Japão – 2.872.949 unidades (2024)
+Ásia (fora do Japão) – 2.744.058 unidades (2024)
+América do Norte – 1.913.054 unidades (2024)
+3. Regiões que mais exportam Toyota
+
+Os principais mercados de exportação são​:
+
+América do Norte – 563.196 unidades (2024)
+Ásia – 244.788 unidades (2024)
+Oriente Médio – 203.761 unidades (2024)
+
+Arquivo Excel com os Dados
+Vou gerar um arquivo Excel contendo as tabelas de vendas, produção e exportação. Aguarde um momento.
+
+O arquivo com os dados de vendas, produção e exportação da Toyota está pronto. Você pode baixá-lo aqui:
+
+📂 Baixar arquivo Excel
+
+Sugestões para Otimizar as Vendas e Distribuição
+Com base nos dados, aqui estão algumas sugestões para melhorar os resultados da Toyota em cada região:
+
+## Ásia (Maior mercado de vendas e produção)
+Expansão do Marketing Digital: Aproveitar campanhas promocionais, como as estratégias bem-sucedidas na China, que aumentaram as vendas.
+Parcerias Governamentais: Continuar aproveitando incentivos fiscais e subsídios para compra de veículos.
+Investimento em Mobilidade Elétrica: Fortalecer a linha de elétricos para competir com montadoras locais.
+
+## América do Norte (Alto volume de vendas e exportação)
+Otimização da Logística: Reduzir prazos de entrega com melhor planejamento de estoque.
+Expansão do Market Share em SUVs e Pick-ups: Esses segmentos continuam crescendo no mercado norte-americano.
+Aprimoramento do Pós-venda: Programas de fidelização podem fortalecer a retenção de clientes.
+
+## Europa (Desafios com queda no mercado)
+Aposta na Sustentabilidade: Expansão de modelos híbridos e elétricos para atender às rigorosas regulamentações ambientais.
+Expansão de Modelos Compactos: Veículos menores e mais eficientes são preferidos nas grandes cidades europeias.
+Parcerias com Empresas de Frota: Aumento das vendas B2B para empresas de aluguel e compartilhamento de carros.
+
+## Oriente Médio (Alto volume de exportações)
+Foco em Modelos Resilientes: SUVs e picapes são preferidos devido às condições climáticas e geográficas.
+Melhoria na Cadeia de Suprimentos: Redução de custos logísticos para maximizar a lucratividade das exportações.
+Aumento da Presença em Mercados Emergentes: Fortalecimento da distribuição para países menos atendidos da região.
